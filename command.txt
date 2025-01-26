@@ -1,0 +1,4 @@
+
+python yad2k.py cfg\yolo.cfg yolov3.weights data\yolo.h5
+
+
